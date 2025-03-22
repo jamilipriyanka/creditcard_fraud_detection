@@ -58,6 +58,7 @@ requests==2.32.3
 rpds-py==0.23.1
 scikit-learn==1.6.1
 scipy==1.15.2
+seaborn
 six==1.17.0
 smmap==5.0.2
 SpeechRecognition==3.14.1
