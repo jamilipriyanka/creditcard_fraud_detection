@@ -138,25 +138,21 @@ We employed **six techniques** for undersampling or oversampling:
 - plotly
 
 Install all requirements using:
-
+```
+pip install -r requirements.txt
+```
 
 ## Demo Images
 
 ![overview](/images/frontpage.jpg)
-*Main dashboard showing fraud detection metrics and transaction statistics*
 
 ![Input feilds](/images/first.jpg)
-*Comparison of ROC curves for different algorithms*
+
 
 ![Input feilds ](/images/second.jpg)
-*Confusion matrix showing true/false positives and negatives*
 
 ![Prediction Result](/images/prediction.jpg)
-*Visualization of the class imbalance between fraudulent and normal transactions*
 
 
-```
-pip install -r requirements.txt
-```
 
 
