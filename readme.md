@@ -26,7 +26,7 @@ This project is a web-based dashboard for detecting credit card fraud using mach
 * **Make Predictions**: Enter transaction details to check for fraud risk.
 * **Dashboard**: Visualize transaction patterns, train machine learning models, and compare model performance.
 * **Advanced Analytics**: Analyze behavioral patterns, detect anomalies, and assess risk scores.
-* 
+  
 ## Technologies Used
 
 - **Streamlit**: For building the web application
@@ -37,7 +37,7 @@ This project is a web-based dashboard for detecting credit card fraud using mach
 - **Scikit-learn**: For machine learning algorithms and metrics
 - **XGBoost**: For advanced boosting algorithms
 - **imbalanced-learn**: For handling imbalanced datasets
-- 
+  
 ## Dataset Overview
 
 - **Transactions**: 284,807
