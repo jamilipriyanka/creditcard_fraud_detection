@@ -125,22 +125,6 @@ We employed **six techniques** for undersampling or oversampling:
 
 6. Execute all cells in the notebook.
 
-
-## Demo Images
-
-![Dashboard](/images/dashboard.png)
-*Main dashboard showing fraud detection metrics and transaction statistics*
-
-![ROC Curves](/images/roc_curves.png)
-*Comparison of ROC curves for different algorithms*
-
-![Confusion Matrix](/images/confusion_matrix.png)
-*Confusion matrix showing true/false positives and negatives*
-
-![Class Distribution](/images/class_distribution.png)
-*Visualization of the class imbalance between fraudulent and normal transactions*
-
-
 ## Requirements
 
 - numpy
@@ -154,6 +138,23 @@ We employed **six techniques** for undersampling or oversampling:
 - plotly
 
 Install all requirements using:
+
+
+## Demo Images
+
+![overview](/images/frontpage.jpg)
+*Main dashboard showing fraud detection metrics and transaction statistics*
+
+![Input feilds](/images/first.jpg)
+*Comparison of ROC curves for different algorithms*
+
+![Input feilds ](/images/second.jpg)
+*Confusion matrix showing true/false positives and negatives*
+
+![Prediction Result](/images/prediction.jpg)
+*Visualization of the class imbalance between fraudulent and normal transactions*
+
+
 ```
 pip install -r requirements.txt
 ```
